@@ -7,3 +7,4 @@ car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 
 st.write("DataFrame Completo:")
 st.dataframe(car_data)
+
